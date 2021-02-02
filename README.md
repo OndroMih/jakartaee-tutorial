@@ -1,5 +1,7 @@
 # Jakarta EE Tutorial
 
+_Netlify PR preview demo_
+
 This repository contains the source files that are used to build the
 _Jakarta Enterprise Edition (Jakarta EE) Tutorial_. The source files
 are authored in [AsciiDoc](http://asciidoc.org/).  AsciiDoc is similar
